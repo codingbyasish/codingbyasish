@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingbyasish" alt="codingbyasish" /></a> </p>
 
-- 🔭 I’m currently working on [Insta Automation](https://github.com/codingbyasish/WebAutomationProject2/blob/main/Automating_Instagram.py)
+- 🔭 I’m currently working on [DjangoProject](https://github.com/codingbyasish/DjangoProject/tree/main/Creating%201st%20Websites)
 
 - 📫 How to reach me **asishakm1@gmail.com**
 
